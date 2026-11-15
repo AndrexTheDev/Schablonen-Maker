@@ -1,0 +1,13 @@
+node_modules/
+dist/
+release/
+out/
+*.local
+.DS_Store
+.vite/
+coverage/
+tmp/
+verification/
+*.log
+*.tsbuildinfo
+image-search/
